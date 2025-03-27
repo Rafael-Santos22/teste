@@ -1,4 +1,5 @@
 #include <stdio.h>
+//eu sou gay
 
 int main() {
     float num1, num2, resultado;

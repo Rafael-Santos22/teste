@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//eu sou gay
 int main() {
     int a, b;
     
